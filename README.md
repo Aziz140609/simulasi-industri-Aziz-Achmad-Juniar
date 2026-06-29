@@ -17,7 +17,7 @@ mempelajari data analysis dari dasar hingga proyek end-to-end.
 | dashboard/ | Screenshot dan link dashboard |
 | docs/ | Dokumentasi dan catatan sprint |
 ## 📥 Cara Download Dataset
-1. Buka link: [https://www.kaggle.com/...]
+1. Buka link: [[https://www.kaggle.com/...](https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan)]
 2. Download file: dataset_penjualan.csv
 3. Simpan ke folder: data/raw/
 ## 📈 Progress Mingguan
