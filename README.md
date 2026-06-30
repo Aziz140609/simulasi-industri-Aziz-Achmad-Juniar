@@ -5,7 +5,7 @@ PT Edusoft Center Teknologi
 ## 📊 Tentang Proyek Ini
 Repository ini mendokumentasikan perjalanan saya selama 12 minggu
 mempelajari data analysis dari dasar hingga proyek end-to-end.
-**Dataset:** dataset_penjualan — [[link sumber](https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan), contoh: Kaggle]
+**Dataset:** dataset_penjualan — [[[Kaggle](https://www.kaggle.com)]
 **Topik Bisnis:** [misal: Analisis Penjualan E-commerce 2024]
 **Tools:** Python, SQL, Looker Studio, Git
 ## 🗂 Struktur Repository
